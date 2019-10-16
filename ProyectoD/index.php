@@ -15,6 +15,7 @@ and open the template in the editor.
         echo "Hola 2";
         echo "Hola 3";
         echo "Hola 4";
+        
         ?>
     </body>
 </html>
